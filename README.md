@@ -8,4 +8,4 @@
  
  ---
 
-🗨️ Ask me about Design, React, UX-UI, Javascript, Typescript, Node, React Native, Android, IOS, XCode, Java, Python. 
+🗨️ Ask me about Design, React, UX-UI, Javascript, Typescript, Node, React Native, Next, Android. 
